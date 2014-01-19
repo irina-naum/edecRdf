@@ -10,7 +10,7 @@ import org.apache.jena.fuseki.FusekiCmd;
 public class Main {
 
     public static void main(String[] args) {
-        FusekiCmd.main("--mem", "--port=" + System.getenv("PORT"), "--pages=./pages", "/edec");
+        FusekiCmd.main("--mem", "--port=" + System.getenv("PORT"), "--pages=`pwd`/pages", "/edec");
     }
 
 }
