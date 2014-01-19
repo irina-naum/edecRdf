@@ -9,6 +9,7 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Maven: javax.servlet:servlet-api:2.5" level="project" />
     <orderEntry type="library" name="Maven: org.eclipse.jetty:jetty-servlet:7.6.14.v20131031" level="project" />
     <orderEntry type="library" name="Maven: org.eclipse.jetty:jetty-security:7.6.14.v20131031" level="project" />
     <orderEntry type="library" name="Maven: org.eclipse.jetty:jetty-server:7.6.14.v20131031" level="project" />
