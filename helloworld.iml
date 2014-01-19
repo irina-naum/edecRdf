@@ -10,15 +10,16 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="Maven: javax.servlet:servlet-api:2.5" level="project" />
-    <orderEntry type="library" name="Maven: org.eclipse.jetty:jetty-servlet:7.6.0.v20120127" level="project" />
-    <orderEntry type="library" name="Maven: org.eclipse.jetty:jetty-security:7.6.0.v20120127" level="project" />
+    <orderEntry type="library" name="Maven: org.eclipse.jetty:jetty-servlet:7.6.14.v20131031" level="project" />
+    <orderEntry type="library" name="Maven: org.eclipse.jetty:jetty-security:7.6.14.v20131031" level="project" />
     <orderEntry type="library" name="Maven: org.eclipse.jetty:jetty-server:8.1.11.v20130520" level="project" />
+    <orderEntry type="library" name="Maven: org.eclipse.jetty.orbit:javax.servlet:3.0.0.v201112011016" level="project" />
     <orderEntry type="library" name="Maven: org.eclipse.jetty:jetty-continuation:8.1.11.v20130520" level="project" />
     <orderEntry type="library" name="Maven: org.eclipse.jetty:jetty-http:8.1.11.v20130520" level="project" />
     <orderEntry type="library" name="Maven: org.eclipse.jetty:jetty-io:8.1.11.v20130520" level="project" />
     <orderEntry type="library" name="Maven: org.eclipse.jetty:jetty-util:8.1.11.v20130520" level="project" />
-    <orderEntry type="library" name="Maven: org.eclipse.jetty:jetty-webapp:7.6.0.v20120127" level="project" />
-    <orderEntry type="library" name="Maven: org.eclipse.jetty:jetty-xml:7.6.0.v20120127" level="project" />
+    <orderEntry type="library" name="Maven: org.eclipse.jetty:jetty-webapp:7.6.14.v20131031" level="project" />
+    <orderEntry type="library" name="Maven: org.eclipse.jetty:jetty-xml:7.6.14.v20131031" level="project" />
     <orderEntry type="library" name="Maven: org.mortbay.jetty:jsp-2.1-glassfish:2.1.v20100127" level="project" />
     <orderEntry type="library" name="Maven: org.eclipse.jdt.core.compiler:ecj:3.5.1" level="project" />
     <orderEntry type="library" name="Maven: org.mortbay.jetty:jsp-api-2.1-glassfish:2.1.v20100127" level="project" />
@@ -54,7 +55,6 @@
     <orderEntry type="library" name="Maven: org.apache.lucene:lucene-spatial:4.3.1" level="project" />
     <orderEntry type="library" name="Maven: com.spatial4j:spatial4j:0.3" level="project" />
     <orderEntry type="library" name="Maven: commons-fileupload:commons-fileupload:1.2.2" level="project" />
-    <orderEntry type="library" name="Maven: org.eclipse.jetty.orbit:javax.servlet:3.0.0.v201112011016" level="project" />
     <orderEntry type="library" name="Maven: org.eclipse.jetty:jetty-servlets:8.1.11.v20130520" level="project" />
     <orderEntry type="library" name="Maven: org.eclipse.jetty:jetty-client:8.1.11.v20130520" level="project" />
     <orderEntry type="library" name="Maven: org.apache.velocity:velocity:1.7" level="project" />
