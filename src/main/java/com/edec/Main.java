@@ -18,7 +18,7 @@ public class Main {
     public static void concatenateData() throws IOException {
         StringBuffer outBuffer = new StringBuffer();
 
-        for (final File fileEntry : new File("/app/include/data").listFiles()) {
+        for (final File fileEntry : new File("include/data").listFiles()) {
             if (fileEntry.isFile()) {
                 FileInputStream inputStream = new FileInputStream(fileEntry);
 
