@@ -81,5 +81,14 @@
                 </executions>
             </plugin>
         </plugins>
+
+        <resources>
+            <resource>
+                <directory>include</directory>
+                <includes>
+                    <include>*</include>
+                </includes>
+            </resource>
+        </resources>
     </build>
 </project>
