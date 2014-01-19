@@ -22,11 +22,8 @@ public class Main {
             if (fileEntry.isFile()) {
                 FileInputStream inputStream = new FileInputStream(fileEntry);
 
-                try {
-                    outBuffer.append(IOUtils.toString(inputStream));
-                } finally {
-                    inputStream.close();
-                }
+                outBuffer.append(IOUtils.toString(inputStream));
+                inputStream.close();
             }
         }
 
