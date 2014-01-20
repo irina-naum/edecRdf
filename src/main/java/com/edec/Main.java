@@ -23,6 +23,7 @@ public class Main {
                 FileInputStream inputStream = new FileInputStream(fileEntry);
 
                 outBuffer.append(IOUtils.toString(inputStream));
+                outBuffer.append('\n');
                 inputStream.close();
             }
         }
