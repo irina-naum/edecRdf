@@ -6,7 +6,7 @@
 	s:name "Nabisco"^^<http://www.w3.org/2001/XMLSchema#string> ;
 	a s:Organization .
 
-<http://edec.org/ingredient/12> s:name "Enriched"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://edec.org/ingredient/12> s:name "Enriched flour"^^<http://www.w3.org/2001/XMLSchema#string> .
 
 <http://edec.org/ingredient/13> s:name "Cocoa"^^<http://www.w3.org/2001/XMLSchema#string> .
 
